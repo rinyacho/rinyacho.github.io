@@ -77,8 +77,8 @@ params:
   #   Content: Welcome to my blog
 
   socialIcons:
-  #  - name: twitter
-  #    url: "https://twitter.com/"
+  #  - name: email
+  #    address: xuqnkheb64@gmail.com
     - name: github
       url: "https://github.com/watobii"
 
@@ -104,22 +104,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 7
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 14
-    - identifier: profile
-      name: profile
-      url: /profile/
-      weight: 21
-    - identifier: posts
-      name: posts
+  #  - identifier: categories
+  #    name: categories
+  #    url: /categories/
+  #    weight: 7
+    - identifier: Profile
+      name: Profile
+      url: fixed/profile/
+      weight: 10
+    - identifier: Posts
+      name: Posts
       url: posts
-      weight: 28
+      weight: 20
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 #pygmentsUseClasses: true
 #markup:

@@ -1,6 +1,7 @@
 ---
 title: "IT初心者が『いちやさGit＆GitHub』を読んで。"
 date: 2022-08-08T21:30:37+09:00
+tags: ["技術"]
 draft: false
 ---
 
