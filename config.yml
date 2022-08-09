@@ -17,7 +17,7 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: watobi
   description: "Blog of watobi."
   keywords: [Blog, Portfolio, PaperMod]
@@ -66,15 +66,15 @@ params:
     imageHeight: 200
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    #   - name: Posts
+    #    url: posts
+    #   - name: Tags
+    #     url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
 
   socialIcons:
   #  - name: twitter
@@ -121,12 +121,12 @@ menu:
       url: posts
       weight: 28
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-pygmentsUseClasses: true
-markup:
-  highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+#pygmentsUseClasses: true
+#markup:
+#  highlight:
+#    noClasses: false
+#    anchorLineNos: true
+#    codeFences: true
+#    guessSyntax: true
+#    lineNos: true
+#    style: monokai
