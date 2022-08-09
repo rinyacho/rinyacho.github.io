@@ -24,7 +24,7 @@ params:
   author: watobi
   # author: ["Me", "You"] # multiple authors
   images: ["watobi.jpg"]
-  DateFormat: "August 8, 2022"
+  DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 

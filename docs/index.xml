@@ -9,7 +9,22 @@
       <link>https://watobii.github.io/watobi.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Aug 2022 21:30:37 +0900</lastBuildDate><atom:link href="https://watobii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 17:04:49 +0900</lastBuildDate><atom:link href="https://watobii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo &#43; GitHubPagesを使用してブログ&amp;プロフィールサイトを表示するまでのError一覧など</title>
+      <link>https://watobii.github.io/posts/githubpages_and_hugo/</link>
+      <pubDate>Tue, 09 Aug 2022 17:04:49 +0900</pubDate>
+      
+      <guid>https://watobii.github.io/posts/githubpages_and_hugo/</guid>
+      <description>なぜGitHubPagesを選んだのか 無料であり、広告がないのが魅力的でした。はてなブログやZennも検討しましたが、GitHubを使用した経験が乏しいので、練習も兼ねることが出来るのではと考えました。またGitHubを使い慣れておくとは、スキルとして有用だとも考えていました。
+※記事をMarkdownで書くことは必須事項でしたが、どのサイトもその要件は満たしていました。
+静的サイトジェネレーターになぜHugoを選んだのか GitHubPagesを使用していく上で候補に挙がったのが、jekyllとHugoでした。jekyllはビルドに時間が遅い等の問題が見受けられました。調べるとjekyllからHugoに切り替えたというサイトもちらほらあり、かつ開発の継続性も見受けられましたので、Hugo（＋PaperMod）を選択しました。
+※ただ、jekyllはGitHub推奨の静的サイトジェネレーターの様ですし、最初はそこから入っても良かったかもしれません。
+参考にしたところ GitHub Pagesで作るウェブサイト開発入門 - 自分だけのホームページを無料で公開 Hugo+Github Pagesでプロフィールページを作ってみた 受難の日々（Error一覧）😥 configが従来生成されたconfig.tomlではなく、config.ymlを作る必要があった。これは選んだテーマにより違う部分の様なので、テーマの公式ドキュメントを読むと確実に分かると思います。config.ymlの書き方もなかなか掴めず苦労しました。最終的には下記の公式ページにたどり着き、何とか事なきを得ました。
+hugo-PaperMod installation sample config.yml hugo serverで生成したサイトがうまく表示できませんでした。http://localhost:1313/ にアクセスしても、Chromeが「このサイトにアクセスできません」と無情に表示するだけでした。しばらく生成された文章を眺めていると、hugo serverが実行されている間しかlocalのWebサーバーは有効にならない、と気付きました。生成が終わったから実行を止めないといけないと勘違いしており、生成する度にctrl+cで止めてからアクセスしちゃってました。そりゃ表示されないですよね。 Serving pages from memory Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) Press Ctrl+C to stop Press Ctrl+C to stop!!
+git cloneで取得したPaperModがhttp://localhost:1313/ の段階で動きませんでした。いくつか同様の事例を調べていると、git submoduleで導入している人が多かったので、実行してみたらうまくいきました（cloneしてきたフォルダは削除）。これは今のところ何が悪かったのか分かっていません。 上記の件と関連してURLやパスが異なるといったErrorが出ました（なぜかcloneで持ってきたフォルダは「PaperMod」、submoduleで持ってきたフォルダは「hugo-PaperMod」でした）。GitHub ActionsにこのURLやパスは存在しませんというErrorが出ており、気づきました。自分が誤った修正をしている場面もあり、なかなかErrorが治まりませんでした。 git initの実行したパスが自分の想定と異なっており、GitHub上に挙げられるのが上位階層のフォルダ一つだけという状況が続きました。GitHub ActionsからDocsフォルダが見つかりませんというError内容が出ており気づきました。結局は、正しい位置でGit initを実行し直した上でadd → commit → pushの一連の流れを行うとうまくいきました。まだGit、GitHubの操作に慣れておらず、随分と右往左往しました。 Repositoryの名前が不適切になっており、想定外のURLでGitHubPagesが公開されていました。それに伴い、baseurlが異なるのでサイト自体が全く表示されませんでした。Repositoryの名前を「github.</description>
+    </item>
+    
     <item>
       <title>IT初心者が『いちやさGit＆GitHub』を読んで。</title>
       <link>https://watobii.github.io/posts/ichiyasagit_book_review/</link>
