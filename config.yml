@@ -1,4 +1,4 @@
-baseURL: "https://github.com/watobii/github.io"
+baseURL: "https://watobii/github.io"
 canonifyurls: false
 publishDir: "docs"
 title: watobi
@@ -88,7 +88,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/watobii/github.io/content"
+    URL: "https://watobii/github.io/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
