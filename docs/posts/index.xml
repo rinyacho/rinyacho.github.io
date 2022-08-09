@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on watobi</title>
+    <link>https://github.com/watobii/github.io/posts/</link>
+    <description>Recent content in Posts on watobi</description>
+    <image>
+      <url>https://github.com/watobii/github.io/watobi.jpg</url>
+      <link>https://github.com/watobii/github.io/watobi.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Aug 2022 21:30:37 +0900</lastBuildDate><atom:link href="https://github.com/watobii/github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT初心者が『いちやさGit＆GitHub』を読んで。</title>
+      <link>https://github.com/watobii/github.io/posts/ichiyasagit_book_review/</link>
+      <pubDate>Mon, 08 Aug 2022 21:30:37 +0900</pubDate>
+      
+      <guid>https://github.com/watobii/github.io/posts/ichiyasagit_book_review/</guid>
+      <description>Too Long; Didn&amp;rsquo;t Read. 総じて良い書籍だと感じました。書籍内の演習は全て実践させていただきました。
+自分の状況。 GitはInstallしていたが、使用実績はなかった。 GitHubのaccountは持っていたが使用できていなかった。 Visual Studio Codeはinstallしてあり、使用実績もあった。 拡張子やDirectory構造をある程度理解していた。 CLIには慣れていた。 htmlを編集したことがあった。 以上のような状況なので、PCの扱いを含めて何も分かっていないわけではありませんでした。ただ、上記のような経験が無くとも実践していけるように作ってあると思います。尚、IT関連の実務経験はありません。 良かったところ。 Git＆GitHubを学ぶ上で、良い書籍だと感じました。Teamを想定した開発の演習があるのですが、その内容も分かりやすく興味を持って取り組み続けることができました。 command lineで実施するところと、その結果がしっかりと表示してあり、勘違いをしにくい（自分がCommand Lineを打ち込む場面なのか実行結果を待つ場面なのかといった）のも進めやすかったです。
+事前説明の項目と演習の項目がしっかりと分けられており、分かりやすかったです。反面、少し上長にも感じました（事前説明の段階で先んじて実行してしまったり等）。「いちばんやさしい」をタイトルにしている以上は仕方ないのかなぁとも思います。 ところどころにある「ワンポイント」で納得感を得ました。編纂事情の説明や、こんなこともできるよといった演習では扱いきれない、視座に富んだ内容が記載されていました。master/slaveがmainに変わりつつある話しとか、面白かったです。下記画像はP140。 公開鍵による認証手続き（今回はSSH）についても、丁寧に解説してあったと思います。こういった書籍を用いずに実践する場合は、躓きポイントになりそうですね。 自分が詰まったところ。 Pull Request先を誤ってfork元にしてしまいました（yasagit-2/ichiyasaGitSample Repository）。同じことをしてしまっている人も多くいるようで、私が訪問した時点で同様のRepositoryには41件（forkは300件超）のPull Requestが行われていました。書籍の読者の皆様、同じ間違いをするようで少し安心しましたｗ
+（Pull Requestは取り消すこともできるので、間違った方はそうすると良いかもしれません） ホームディレクトリの環境変数を変更するのに手間取りました。/c/Users/(Home Directory)にはすでにいくつかのFolderやFileが存在したので、そこに新たにFolderを作成し、その直下で作業を進めたいと考えました。しかし、SSH Keyを生成する際に自動的に指定されるのがHome Directoryだったので、その変更を余儀なくされました。結果、Git Bash上でSETXCommandを実行して、変更することができました。下記を参考にしました。操作自体は簡単だったのですが、Git Bashの再起動を実施していなかったので、結果が反映されていないことに気づくのに時間がかかりました。GUIで実施すれば問題なく、かつ早くできたと思いますが、CLIで操作したかったんです。。。
+[Git] Git Bashのホームディレクトリを変更する
+SETXで環境変数の変更を間違えた場合に面倒なことがあるようですが、最終的にはPowerShellを用いて解決できるようでした。
+Windows環境変数の設定に「SETX」コマンドを使ってはいけない理由 Repositoryの連携に手間取りました。上記の件でGit Bashを再起動したせいか、Remote Repository（GitHub）との連携が解消されており、Commitしたところ、下記の通知が流れました。ここでemailだけでも判別できるかなぁ、とか色々やって時間を食いました。 誤植らしきところ。 下記の画像のところです。行数の順番がおかしくなっており（114から始まり途中で90になっている）、記載に誤りがあると思われます。この内容はインプレス社のお詫びと訂正に載っていませんでした（2022年8月7日訪問時）。P215です。
+いちやさGit インプレス社 まだ慣れないところ。 git init → git add → git commit git clone → git branch → git add → git commit → git push → Create Pull Request → Review → Merge → git pull git status, git diff, git checkout, git reset, git rm, git log, git remote</description>
+    </item>
+    
+  </channel>
+</rss>
