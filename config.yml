@@ -1,4 +1,4 @@
-baseURL: "https://watobii.github.io"
+baseURL: "https://watobii.github.io/"
 canonifyurls: false
 publishDir: "docs"
 title: watobi
