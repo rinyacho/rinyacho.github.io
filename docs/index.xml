@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>watobi</title>
-    <link>https://github.com/watobii/github.io/</link>
+    <link>https://watobii/github.io/</link>
     <description>Recent content on watobi</description>
     <image>
-      <url>https://github.com/watobii/github.io/watobi.jpg</url>
-      <link>https://github.com/watobii/github.io/watobi.jpg</link>
+      <url>https://watobii/github.io/watobi.jpg</url>
+      <link>https://watobii/github.io/watobi.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 08 Aug 2022 21:30:37 +0900</lastBuildDate><atom:link href="https://github.com/watobii/github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Aug 2022 21:30:37 +0900</lastBuildDate><atom:link href="https://watobii/github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IT初心者が『いちやさGit＆GitHub』を読んで。</title>
-      <link>https://github.com/watobii/github.io/posts/ichiyasagit_book_review/</link>
+      <link>https://watobii/github.io/posts/ichiyasagit_book_review/</link>
       <pubDate>Mon, 08 Aug 2022 21:30:37 +0900</pubDate>
       
-      <guid>https://github.com/watobii/github.io/posts/ichiyasagit_book_review/</guid>
+      <guid>https://watobii/github.io/posts/ichiyasagit_book_review/</guid>
       <description>Too Long; Didn&amp;rsquo;t Read. 総じて良い書籍だと感じました。書籍内の演習は全て実践させていただきました。
 自分の状況。 GitはInstallしていたが、使用実績はなかった。 GitHubのaccountは持っていたが使用できていなかった。 Visual Studio Codeはinstallしてあり、使用実績もあった。 拡張子やDirectory構造をある程度理解していた。 CLIには慣れていた。 htmlを編集したことがあった。 以上のような状況なので、PCの扱いを含めて何も分かっていないわけではありませんでした。ただ、上記のような経験が無くとも実践していけるように作ってあると思います。尚、IT関連の実務経験はありません。 良かったところ。 Git＆GitHubを学ぶ上で、良い書籍だと感じました。Teamを想定した開発の演習があるのですが、その内容も分かりやすく興味を持って取り組み続けることができました。 command lineで実施するところと、その結果がしっかりと表示してあり、勘違いをしにくい（自分がCommand Lineを打ち込む場面なのか実行結果を待つ場面なのかといった）のも進めやすかったです。
 事前説明の項目と演習の項目がしっかりと分けられており、分かりやすかったです。反面、少し上長にも感じました（事前説明の段階で先んじて実行してしまったり等）。「いちばんやさしい」をタイトルにしている以上は仕方ないのかなぁとも思います。 ところどころにある「ワンポイント」で納得感を得ました。編纂事情の説明や、こんなこともできるよといった演習では扱いきれない、視座に富んだ内容が記載されていました。master/slaveがmainに変わりつつある話しとか、面白かったです。下記画像はP140。 公開鍵による認証手続き（今回はSSH）についても、丁寧に解説してあったと思います。こういった書籍を用いずに実践する場合は、躓きポイントになりそうですね。 自分が詰まったところ。 Pull Request先を誤ってfork元にしてしまいました（yasagit-2/ichiyasaGitSample Repository）。同じことをしてしまっている人も多くいるようで、私が訪問した時点で同様のRepositoryには41件（forkは300件超）のPull Requestが行われていました。書籍の読者の皆様、同じ間違いをするようで少し安心しましたｗ
