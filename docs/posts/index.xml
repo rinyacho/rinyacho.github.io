@@ -9,6 +9,7 @@
       <link>https://watobii.github.io/watobi.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
     <lastBuildDate>Tue, 09 Aug 2022 17:04:49 +0900</lastBuildDate><atom:link href="https://watobii.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo &#43; GitHubPagesを使用してブログ&amp;プロフィールサイトを表示するまでのError一覧など</title>
