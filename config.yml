@@ -73,12 +73,12 @@ params:
 
   # home-info mode
   homeInfoParams:
-     Title: "Hi there 😁"
+     Title: "Hi there. I'm watobi 😁"
      Content: Welcome to my pages!
 
   socialIcons:
-  #  - name: email
-  #    address: xuqnkheb64@gmail.com
+    - name: email
+      url: "https://docs.google.com/forms/d/e/1FAIpQLSdsFw4jCJzzFd8mXAabFBG0aXVgvqWjX0sDfHOTXnUcXpmWlg/viewform?usp=sf_link"
     - name: github
       url: "https://github.com/watobii"
 
