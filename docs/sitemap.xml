@@ -2,20 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://watobii.github.io/fixed/</loc>
+    <lastmod>2022-08-09T19:34:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/tags/</loc>
+    <lastmod>2022-08-09T19:34:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/</loc>
+    <lastmod>2022-08-09T19:34:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/fixed/profile/</loc>
+    <lastmod>2022-08-09T19:34:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/tags/%E4%BA%BA%E9%96%93/</loc>
+    <lastmod>2022-08-09T19:34:49+09:00</lastmod>
+  </url><url>
     <loc>https://watobii.github.io/posts/githubpages_and_hugo/</loc>
     <lastmod>2022-08-09T17:04:49+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/posts/</loc>
     <lastmod>2022-08-09T17:04:49+09:00</lastmod>
   </url><url>
-    <loc>https://watobii.github.io/</loc>
+    <loc>https://watobii.github.io/tags/%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2022-08-09T17:04:49+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/posts/ichiyasagit_book_review/</loc>
     <lastmod>2022-08-08T21:30:37+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/categories/</loc>
-  </url><url>
-    <loc>https://watobii.github.io/tags/</loc>
   </url>
 </urlset>
