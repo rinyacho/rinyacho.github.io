@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-     Title: "Hi there. I'm watobi 😁"
-     Content: Welcome to my pages!
+     Title: "This is watobi's page 😁"
+     Content: 技術的なことを中心に書いていきます！
 
   socialIcons:
     - name: email
