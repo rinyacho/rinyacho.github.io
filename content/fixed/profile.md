@@ -34,7 +34,7 @@ BIND, Apache, ArGoMail, IIS（Microsoft Internet Information Services）
 ### 開発環境
 .NET, AndroidStudio, VisualStudio, Eclipse, IAR EW（Embedded Workbench for Arm）
 ### アプリケーション
-WireShark, Thunderbird, SSMS(Microsoft SQL Server Management Studio), FFFTP
+Git, GitHub, WireShark, Thunderbird, SSMS(Microsoft SQL Server Management Studio), FFFTP
 ### Linux
 command line, shell script, ssh
 ### プラットフォーム
