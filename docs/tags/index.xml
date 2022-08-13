@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 13 Aug 2022 00:32:08 +0900</lastBuildDate><atom:link href="https://watobii.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Aug 2022 00:33:59 +0900</lastBuildDate><atom:link href="https://watobii.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter</title>
+      <link>https://watobii.github.io/tags/flutter/</link>
+      <pubDate>Sun, 14 Aug 2022 00:33:59 +0900</pubDate>
+      
+      <guid>https://watobii.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>人間</title>
       <link>https://watobii.github.io/tags/%E4%BA%BA%E9%96%93/</link>
@@ -21,11 +30,29 @@
     </item>
     
     <item>
-      <title>技術</title>
-      <link>https://watobii.github.io/tags/%E6%8A%80%E8%A1%93/</link>
+      <title>Git&amp;GitHub</title>
+      <link>https://watobii.github.io/tags/gitgithub/</link>
       <pubDate>Wed, 10 Aug 2022 23:44:15 +0900</pubDate>
       
-      <guid>https://watobii.github.io/tags/%E6%8A%80%E8%A1%93/</guid>
+      <guid>https://watobii.github.io/tags/gitgithub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHubPages</title>
+      <link>https://watobii.github.io/tags/githubpages/</link>
+      <pubDate>Wed, 10 Aug 2022 23:44:15 +0900</pubDate>
+      
+      <guid>https://watobii.github.io/tags/githubpages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>書籍</title>
+      <link>https://watobii.github.io/tags/%E6%9B%B8%E7%B1%8D/</link>
+      <pubDate>Mon, 08 Aug 2022 21:30:37 +0900</pubDate>
+      
+      <guid>https://watobii.github.io/tags/%E6%9B%B8%E7%B1%8D/</guid>
       <description></description>
     </item>
     

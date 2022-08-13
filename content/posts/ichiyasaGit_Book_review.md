@@ -1,7 +1,7 @@
 ---
 title: "IT初心者が『いちばんやさしいGit&GitHubの教本 第2版』を読んで。"
 date: 2022-08-08T21:30:37+09:00
-tags: ["技術"]
+tags: ["Git&GitHub", "書籍"]
 draft: false
 ---
 ## TL;DR

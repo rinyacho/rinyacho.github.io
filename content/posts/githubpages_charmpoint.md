@@ -1,7 +1,7 @@
 ---
 title: "GitHubPagesの魅力を挙げていく（なぜブログサービスとして選択したか）"
 date: 2022-08-10T23:44:15+09:00
-tags: ["技術"]
+tags: ["Git&GitHub", "GitHubPages"]
 draft: false
 ---
 ## はじめに

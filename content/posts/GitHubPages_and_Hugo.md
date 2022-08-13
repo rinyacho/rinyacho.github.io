@@ -1,7 +1,7 @@
 ---
 title: "Hugo + GitHubPagesを使用してブログ&プロフィールサイトを表示するまでのError一覧など"
 date: 2022-08-09T17:04:49+09:00
-tags: ["技術"]
+tags: ["Git&GitHub", "GitHubPages"]
 draft: false
 ---
 ## なぜGitHubPagesを選んだのか
