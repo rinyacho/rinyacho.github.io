@@ -10,9 +10,10 @@ UI/UXやソフトウェアに関連するエンジニアになりたいとなぁ
 今は愛知県で地方公務員をやっています。  
   
 ITに関連する実務経験はありませんが、学びながら挑戦していきたいと思っています！  
-📘資格は基本情報技術者試験、応用情報技術者試験を持っています  
+📘資格は基本情報技術者試験、応用情報技術者試験を持っています。  
 
-もしも気になるなぁと思ってくださる方がいらっしゃれば、下記フォームよりご連絡いただけると幸いです。  
+もしも気になるなぁと思ってくださる方がいらっしゃれば、下記メールフォームよりご連絡いただけると幸いです。
+TwitterのDMからも歓迎です。
 
 [連絡先（Google Forms）](https://docs.google.com/forms/d/e/1FAIpQLSdsFw4jCJzzFd8mXAabFBG0aXVgvqWjX0sDfHOTXnUcXpmWlg/viewform?usp=sf_link)
 ## 経歴
@@ -47,11 +48,11 @@ command line, shell script, ssh
 Windows, Mac, Linux, μITRON, TOPPERS
 ### 開発プロセス
 PMBOK, UML, テスト設計, 構造化設計
-### 開発経験
+### 作ったもの
 - 電子工作：ストップウォッチ、IC回路、発信回路
 - マイコン：シリアル通信、UART、割込み、タイマ、ITRON、AD/DA変換
 - マインドストーム：EV3、RTOS、TOPPERS
 - Windows フォームアプリケーション（VisualStudio、C#、.NET Framework、Access）：就職活動状況報告システム
 - Windows WEBフォームアプリケーション（VisualStudio、C#、ASP.NET、MS SQL）：就職活動状況報告システム
 - Androidアプリケーション（Java）：定形メールアプリ、ルーレットアプリ、アラームアプリ、マインドストーム接続型リモンアプリ、センサーサウンドアプリ
-- サーバー立ち上げ等
+- サーバー立ち上げなど
