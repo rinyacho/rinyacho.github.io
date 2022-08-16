@@ -5,15 +5,17 @@ tags: ["Git&GitHub"]
 draft: false
 ---
 ## 読み飛ばしてOKのまえがき
-現在、私はFlutterでアプリ開発の練習をしているところです📱  
+現在、私はFlutterでアプリ開発にチャレンジしています📱  
 その開発内容もgit＆githubで管理していきたいなと思いました。アプリ開発をしているのは、iPhoneの実験もしたいことから、Mac機を使用しています。環境構築済みのWindows機ではないので、新たに環境構築が必要となります。
 一度、Git＆Githubの本で一通り実施したので、それ程詰まらずに進めることができるだろうと思っていたのですが、思ったより時間を要してしまいました。
 今後も新たなPCでGit＆Githubの環境構築をすることがあると思いますので、その方法をまとめておきたいと思います。  
 ## 注意事項？
 全てGUI前提（Mac標準搭載のターミナル）で書いていきます。M1💻と記載しましたが、Apple silicon系であれば内容は同じと思われます。また、Windowsでも、パッケージマネージャー入れたり（必須ではない）、コマンド実行したり、流れや内容は概ね一緒かと思います。
 ## 実行手順
-1. Homebrew🍺をインストールする。PATHが追加されていない場合（warningが出る）、`Users/ユーザー名/`に`.zshrc`を作成する。`.zshrc`に`export PATH=/opt/homebrew/bin:$PATH`を追記する。下記を実行して、追記内容を反映させる。  
-※インストールしただけではPATHが登録されないのはM1の仕様みたい。 
+1. Homebrew🍺をHPにアクセスしてインストールする。PATHが追加されていない場合（インストール時にwarningが出る）、`Users/ユーザー名/`に`.zshrc`を作成する。`.zshrc`に`export PATH=/opt/homebrew/bin:$PATH`を追記する。下記を実行して、追記内容を反映させる。  
+※インストールしただけではPATHが登録されないのはM1の仕様みたい。   
+※Homebrewインストールの参考ページ
+→[Homebrewのインストール](https://qiita.com/zaburo/items/29fe23c1ceb6056109fd)
     ```none
     source .zshrc
     ```
