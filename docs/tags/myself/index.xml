@@ -18,7 +18,7 @@
     </item>
     
     <item>
-      <title>プロフィール・経歴・スキル</title>
+      <title>プロフィール・経歴・スキル🐧</title>
       <link>https://watobii.github.io/fixed/profile/</link>
       <pubDate>Tue, 09 Aug 2022 19:34:49 +0900</pubDate>
       
@@ -39,8 +39,7 @@ ITに関連する実務経験はありませんが、学びながら挑戦して
 ライブラリ・フレームワーク .NET Framework, ASP.NET
 開発環境 .NET, AndroidStudio, VisualStudio, Eclipse, IAR EW（Embedded Workbench for Arm）
 アプリケーション Git, GitHub, WireShark, Thunderbird, SSMS(Microsoft SQL Server Management Studio), FFFTP
-Linux command line, shell script, ssh
-プラットフォーム Windows, Mac, Linux, μITRON, TOPPERS</description>
+Linux command line, shell script, ssh</description>
     </item>
     
   </channel>
