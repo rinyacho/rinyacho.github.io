@@ -24,7 +24,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: watobi
   # author: ["Me", "You"] # multiple authors
-  images: ["watobi.jpg"]
+  images:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-     Title: "This is watobi's page 😁"
+     Title: "This is watobi's page 🐧"
      Content: 技術的なことを中心に書いていきます！
 
   socialIcons:

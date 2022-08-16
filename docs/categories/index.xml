@@ -4,10 +4,6 @@
     <title>Categories on watobi</title>
     <link>https://watobii.github.io/categories/</link>
     <description>Recent content in Categories on watobi</description>
-    <image>
-      <url>https://watobii.github.io/watobi.jpg</url>
-      <link>https://watobii.github.io/watobi.jpg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language><atom:link href="https://watobii.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
