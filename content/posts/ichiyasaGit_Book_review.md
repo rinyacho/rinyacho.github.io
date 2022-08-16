@@ -43,3 +43,7 @@ draft: false
 本記事はMark Down Languageで書かれています。  
 また、本ページはGitHubを使用しています。正直、はてなブログとして運用した方が簡単だし、使いやすいよねと思いました。GitHubの練習として、無理の無い範囲で使っていきたいと思っています😁  
 何か誤植等ありましたら、Pull Request、お待ちしております！
+## 追記
+2022/08/17  
+流れが少しでも分かるように別記事でまとめました。  
+[Mac(M1/Apple silicon)でGit&Githubを使用したローカル&リモートリポジトリを作成する方法覚え書き。](/posts/build_git_github_enviroment/)
