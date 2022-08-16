@@ -79,6 +79,8 @@ params:
   socialIcons:
     - name: email
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdsFw4jCJzzFd8mXAabFBG0aXVgvqWjX0sDfHOTXnUcXpmWlg/viewform?usp=sf_link"
+    - name: twitter
+      url: "https://twitter.com/watobi_pub"
     - name: github
       url: "https://github.com/watobii"
 
