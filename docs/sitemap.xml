@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://watobii.github.io/tags/gitgithub/</loc>
+    <lastmod>2022-08-16T20:09:40+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/posts/build_git_github_enviroment/</loc>
+    <lastmod>2022-08-16T20:09:40+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/posts/</loc>
+    <lastmod>2022-08-16T20:09:40+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/tags/</loc>
+    <lastmod>2022-08-16T20:09:40+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/</loc>
+    <lastmod>2022-08-16T20:09:40+09:00</lastmod>
+  </url><url>
     <loc>https://watobii.github.io/tags/flutter/</loc>
     <lastmod>2022-08-14T00:33:59+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/posts/flutter_challenge/</loc>
-    <lastmod>2022-08-14T00:33:59+09:00</lastmod>
-  </url><url>
-    <loc>https://watobii.github.io/posts/</loc>
-    <lastmod>2022-08-14T00:33:59+09:00</lastmod>
-  </url><url>
-    <loc>https://watobii.github.io/tags/</loc>
-    <lastmod>2022-08-14T00:33:59+09:00</lastmod>
-  </url><url>
-    <loc>https://watobii.github.io/</loc>
     <lastmod>2022-08-14T00:33:59+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/fixed/</loc>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>https://watobii.github.io/fixed/humanity_private_work/</loc>
     <lastmod>2022-08-13T00:32:08+09:00</lastmod>
-  </url><url>
-    <loc>https://watobii.github.io/tags/gitgithub/</loc>
-    <lastmod>2022-08-10T23:44:15+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/tags/githubpages/</loc>
     <lastmod>2022-08-10T23:44:15+09:00</lastmod>
