@@ -6,7 +6,16 @@
     <description>Recent content on watobi&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 16 Aug 2022 20:09:40 +0900</lastBuildDate><atom:link href="https://watobii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Aug 2022 22:18:17 +0900</lastBuildDate><atom:link href="https://watobii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flutter Challenge!💥 練習編（更新中）</title>
+      <link>https://watobii.github.io/posts/flutter_practice_record/</link>
+      <pubDate>Fri, 19 Aug 2022 22:18:17 +0900</pubDate>
+      
+      <guid>https://watobii.github.io/posts/flutter_practice_record/</guid>
+      <description>Day1 開発機の選定。 マウス・キーボードの設定。 Homebrewのインストール。 AndroidStudioのインストール。 Gitのインストール。 ローカル＆リモートリポジトリの設定。 Day2 画像と文字を画面に表示するアプリを作成（写経＋アレンジ）。 assets/を作成して画像をコピーしてくる。ymlを書き換えて画像ファイルを認識させる。 Image()で画像を表示。 Text()で文字を表示。 body: Centor()（全体配置）、Column()（縦配置）、Row()（横配置）でレイアウト。 MainAxisAlignment.で配置パターンを設定。 child: []とchildren: []で入れ子構造の設定。 Day3 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。 appbar:で画面上端のバー＋テキストを表示。 StringとDateTimeの型で変数生成。 InputDecoration()でテキスト入力欄のデザイン設定。 print()でconsoleに値を出力。デバッグでも有効。 Icon:でアイコンを表示。 Padding()で4方向のレイアウト調整。 SingleChildScrollView()画面内に治まらない時のスクロールに対応。 if文でnull回避。hoge!にてnullで無いことの証明。 TextField()やShowDatePicker()を使用して入力パターンを設定。 onPressed:を使用してタップ動作の検知。 aysncとawaitを使用して動作に時間差があるデータの格納に対応（カレンダーを表示する→日付を選択する）。 新たなclassを作成。 lib/に.dartファイルを追加して、新たな画面を作成。 Navigator.push()とMaterialPageRoute(builder: (context) =&amp;gt;)を使用してmain.dartから画面遷移。 Day4 プロフィールを表示して、シェアするアプリを作成中。 本記事の初回作成。 Day5 Day6 継続中の問題 バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。 </description>
+    </item>
+    
     <item>
       <title>Mac(M1/Apple silicon)でGit&amp;Githubを使用したローカル&amp;リモートリポジトリを作成する方法覚え書き。</title>
       <link>https://watobii.github.io/posts/build_git_github_enviroment/</link>
@@ -71,18 +80,18 @@ Zenn
     </item>
     
     <item>
-      <title>プロフィール・経歴・スキル🐧</title>
+      <title>プロフィールなど</title>
       <link>https://watobii.github.io/fixed/profile/</link>
       <pubDate>Tue, 09 Aug 2022 19:34:49 +0900</pubDate>
       
       <guid>https://watobii.github.io/fixed/profile/</guid>
-      <description>プロフィール UI/UXやソフトウェアに関連するエンジニアになりたいとなぁと考えている者です😎
-今は愛知県で地方公務員をやっています。
+      <description>ITエンジニアになりたいとなぁと考えている者です😎
+今は愛知で地方公務員をやっています。
 ITに関連する実務経験はありませんが、学びながら挑戦していきたいと思っています！
 📘資格は基本情報技術者試験、応用情報技術者試験を持っています。
 もしも気になるなぁと思ってくださる方がいらっしゃれば、下記メールフォームよりご連絡いただけると幸いです。 TwitterのDMからも歓迎です。
 連絡先（Google Forms）
-経歴 大学入学。卒業設計が優秀作品となり、大学代表として日本建築学会支部協会の全国大学・高専卒業設計展示会で全国を巡回しました。また、卒業時に学園賞をいただきました。 大学卒業後、🏬商業建築を手掛ける会社に入社しました。商業施設に入る複数テナントを建築設計・施工の面で監理・監督する仕事をしていました（約4年）。 職業訓練校にて💻情報系の勉強や課題に取り組みました（2年）。 地方公務員として🏫教育系の仕事をしています。人の前に立って授業をするのが仕事の半分くらいです（1年+継続中）。 現在の仕事は大きなストレスも無く、一定程度充実し、安定もしています。ただ、エンジニア職への、開発への好奇心が抑えられず、転職を考えている次第です🔥
+経歴 大学。卒業設計が優秀作品となり、大学代表として日本建築学会支部協会の全国大学・高専卒業設計展示会で全国を巡回しました。また、卒業時に学園賞をいただきました。 大学卒業後、🏬商業建築を手掛ける会社に入社しました。商業施設に入る複数テナントを建築設計・施工の面で総合的に監理・監督する仕事をしていました（約4年）。 職業訓練校にて💻情報系の勉強や課題に取り組みました（2年）。 地方公務員として🏫教育系の仕事をしています。人の前に立って授業をするのが仕事の半分くらいです（1年+継続中）。 現在の仕事は大きなストレスも無く、一定程度充実し、安定もしています。ただ、エンジニア職への、開発への好奇心が抑えられず、転職を考えている次第です🔥
 人間性 長くなりましたので、以下のリンクにまとめました。
 プライベートと仕事から考える私の人間性
 スキル 前述の通り実務経験はありません。使ったことがあるものを書きます。
