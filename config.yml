@@ -2,7 +2,7 @@ baseURL: "https://watobii.github.io/"
 canonifyurls: false
 publishDir: "docs"
 title: watobi's page
-paginate: 5
+paginate: 10
 theme: PaperMod
 languageCode: "ja-jp"
 

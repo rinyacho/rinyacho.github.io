@@ -19,7 +19,8 @@ draft: false
 - `Text()`で文字を表示。
 - `body: Centor()`（全体配置）、`Column()`（縦配置）、`Row()`（横配置）でレイアウト。
 - `MainAxisAlignment.`で配置パターンを設定。
-- `child: []`と`children: []`で入れ子構造の設定。
+- `child: []`と`children: []`で入れ子構造の設定。  
+[リポジトリ：flutter_practice_display](https://github.com/watobii/flutter_practice_display)
 
 ## Day3
 - 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。
@@ -36,11 +37,16 @@ draft: false
 - `aysnc`と`await`を使用して動作に時間差があるデータの格納に対応（カレンダーを表示する→日付を選択する）。
 - 新たなclassを作成。
 - `lib/`に`.dart`ファイルを追加して、新たな画面を作成。
-- `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。
+- `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。  
+[リポジトリ：flutter_practice_calc](https://github.com/watobii/flutter_practice_calc)
 
 ## Day4
-- プロフィールを表示して、シェアするアプリを作成中。
 - 本記事の初回作成。
+- プロフィールを表示して、シェアするアプリを作成中。
+- `url_launcher`パッケージのインストールと適用。
+- `launchURL`でメールアプリの自動起動と適用するテキストを設定。
+- `Future<void>`、`async`、`await`で時間がかかる処理の対応。
+- `if` + `throw`で例外処理。
 
 ## Day5
 
