@@ -40,7 +40,7 @@ draft: false
 - `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。  
 [リポジトリ：flutter_practice_calc](https://github.com/watobii/flutter_practice_calc)
 
-## Day4・5・6
+## Day4・5・6・7
 - 本記事の初回作成。
 - プロフィールを表示して、シェアするアプリを作成中。
 - `url_launcher`パッケージのインストールと適用。
@@ -49,6 +49,8 @@ draft: false
 - `if` + `throw`で例外処理。
 
 
+
+
 ## 継続中の問題
 - バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。
-- プライベートと仕事が忙しい😥
+- 時間の確保が困難😥　少しずつでも、出来るだけ毎日進めていきたい。
