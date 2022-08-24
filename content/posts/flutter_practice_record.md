@@ -37,6 +37,7 @@ draft: false
 - `aysnc`と`await`を使用して動作に時間差があるデータの格納に対応（カレンダーを表示する→日付を選択する）。
 - 新たなclassを作成。
 - `lib/`に`.dart`ファイルを追加して、新たな画面を作成。
+- 変数の作成、変数の画面間渡し。
 - `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。  
 [リポジトリ：flutter_practice_calc](https://github.com/watobii/flutter_practice_calc)
 
@@ -47,14 +48,23 @@ draft: false
 - `launchURL`でメールアプリの自動起動と適用するテキストを設定。
 - `Future<void>`、`async`、`await`で時間がかかる処理の対応。
 - `if` + `throw`で例外処理。
+- `fontSize:`と`fontWeight:`で、文字の大きさと強さを変更できる。
 - `share_plus`packageを導入して、シェア動作を入れる。
 - `screenshot`packageを導入して、スクリーンショットを取る動作を入れる。
 - `path_provider`packageを導入して、スクリーンショットのデータとのパスを繋ぐ。
-- `backgroundColor:`で背景色を指定する。  
-[リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)
+- `backgroundColor:`で背景色を指定する。
+- 下記のErrorが発生。SDKの紐づけが出来ていなかった（NoSDK）のが原因っぽい。File→Project Structureで、SDKを設定したところ、解消された。  
+[参考サイト：Android Studioで作成したFlutterプロジェクトがGradleまわりのErrorを...](https://shn-hsn.hatenablog.com/entry/2020/01/02/162242)
+```none
+Cannot resolve symbol 'Properties'
+Cannot resolve symbol 'Properties'
+```
+- 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。  
+[リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)  
 
+## Day9
+Flutterに関連するブックマークリストの作成（仮）。
 
 ## 継続中の問題
 - バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。
 - 時間の確保が困難😥　少しずつでも、出来るだけ毎日進めていきたい。
-- main.dartとは異なる部分でErrorが発生中。原因調査中。
