@@ -14,6 +14,7 @@ draft: false
 
 ## Day2
 - 画像と文字を画面に表示するアプリを作成（写経＋アレンジ）。
+- 意義：基本的な使い方を把握する。
 - `assets/`を作成して画像をコピーしてくる。`yml`を書き換えて画像ファイルを認識させる。
 - `Image()`で画像を表示。
 - `Text()`で文字を表示。
@@ -24,6 +25,7 @@ draft: false
 
 ## Day3
 - 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。
+- 意義：async・awaitの処理に触れる。小技を覚える。画面遷移の手法やその書き方を身につける。
 - `appbar:`で画面上端のバー＋テキストを表示。
 - `String`と`DateTime`の型で変数生成。
 - `InputDecoration()`でテキスト入力欄のデザイン設定。
@@ -43,7 +45,8 @@ draft: false
 
 ## Day4・5・6・7・8
 - 本記事の初回作成。
-- プロフィールを表示して、シェアするアプリを作成中。
+- プロフィールを表示して、シェアするアプリを作成中（写経）。
+- 意義：パッケージの導入方法とその適用の勘所を身につける。例外処理、async・awaitの処理に慣れる。
 - `url_launcher`パッケージのインストールと適用。
 - `launchURL`でメールアプリの自動起動と適用するテキストを設定。
 - `Future<void>`、`async`、`await`で時間がかかる処理の対応。
@@ -62,8 +65,11 @@ Cannot resolve symbol 'Properties'
 - 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。  
 [リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)  
 
-## Day9
-Flutterに関連するブックマークリストの作成（仮）。
+## Day9・Day10
+- リアルタイムに値を変更して表示するアプリを作成中。
+- 新規作成したいアプリの画面イメージをスケッチ。  
+
+[リポジトリ：flutter_practice_realtime](https://github.com/watobii/flutter_practice_realtime/settings)
 
 ## 継続中の問題
 - バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。
