@@ -67,7 +67,7 @@ Cannot resolve symbol 'Properties'
 
 ## Day9・Day10
 - リアルタイムに値を変更して表示するアプリを作成中。
-- 新規作成したいアプリの画面イメージをスケッチ。  
+- 新規作成したいアプリの画面イメージを描いてみる。 
 
 [リポジトリ：flutter_practice_realtime](https://github.com/watobii/flutter_practice_realtime/settings)
 

@@ -17,7 +17,7 @@
 リポジトリ：flutter_practice_display Day3 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。 意義：async・awaitの処理に触れる。小技を覚える。画面遷移の手法やその書き方を身につける。 appbar:で画面上端のバー＋テキストを表示。 StringとDateTimeの型で変数生成。 InputDecoration()でテキスト入力欄のデザイン設定。 print()でconsoleに値を出力。デバッグでも有効。 Icon:でアイコンを表示。 Padding()で4方向のレイアウト調整。 SingleChildScrollView()画面内に治まらない時のスクロールに対応。 if文でnull回避。hoge!にてnullで無いことの証明。 TextField()やShowDatePicker()を使用して入力パターンを設定。 onPressed:を使用してタップ動作の検知。 aysncとawaitを使用して動作に時間差があるデータの格納に対応（カレンダーを表示する→日付を選択する）。 新たなclassを作成。 lib/に.dartファイルを追加して、新たな画面を作成。 変数の作成、変数の画面間渡し。 Navigator.push()とMaterialPageRoute(builder: (context) =&amp;gt;)を使用してmain.dartから画面遷移。
 リポジトリ：flutter_practice_calc Day4・5・6・7・8 本記事の初回作成。 プロフィールを表示して、シェアするアプリを作成中（写経）。 意義：パッケージの導入方法とその適用の勘所を身につける。例外処理、async・awaitの処理に慣れる。 url_launcherパッケージのインストールと適用。 launchURLでメールアプリの自動起動と適用するテキストを設定。 Future&amp;lt;void&amp;gt;、async、awaitで時間がかかる処理の対応。 if + throwで例外処理。 fontSize:とfontWeight:で、文字の大きさと強さを変更できる。 share_pluspackageを導入して、シェア動作を入れる。 screenshotpackageを導入して、スクリーンショットを取る動作を入れる。 path_providerpackageを導入して、スクリーンショットのデータとのパスを繋ぐ。 backgroundColor:で背景色を指定する。 下記のErrorが発生。SDKの紐づけが出来ていなかった（NoSDK）のが原因っぽい。File→Project Structureで、SDKを設定したところ、解消された。
 参考サイト：Android Studioで作成したFlutterプロジェクトがGradleまわりのErrorを&amp;hellip; Cannot resolve symbol &amp;#39;Properties&amp;#39; Cannot resolve symbol &amp;#39;Properties&amp;#39; 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。
-リポジトリ：flutter_practice_share Day9・Day10 リアルタイムに値を変更して表示するアプリを作成中。 新規作成したいアプリの画面イメージをスケッチ。 リポジトリ：flutter_practice_realtime</description>
+リポジトリ：flutter_practice_share Day9・Day10 リアルタイムに値を変更して表示するアプリを作成中。 新規作成したいアプリの画面イメージを描いてみる。 リポジトリ：flutter_practice_realtime</description>
     </item>
     
     <item>
