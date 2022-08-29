@@ -65,7 +65,7 @@ Cannot resolve symbol 'Properties'
 - 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。  
 [リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)  
 
-## Day9・Day10・Day11・Day12
+## Day9・Day10・Day11・Day12・DAY13
 - リアルタイムに値を変更して表示するアプリを作成中。
 - 新規作成したいアプリの画面イメージを描いてみる。 
 
