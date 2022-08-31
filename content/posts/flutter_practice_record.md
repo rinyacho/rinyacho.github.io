@@ -4,7 +4,7 @@ date: 2022-08-19T22:18:17+09:00
 tags: ["Flutter"]
 draft: false
 ---
-## Day1
+## STEP1
 - 開発機の選定。
 - マウス・キーボードの設定。
 - Homebrewのインストール。
@@ -12,7 +12,7 @@ draft: false
 - Gitのインストール。
 - ローカル＆リモートリポジトリの設定。
 
-## Day2
+## STEP2
 - 画像と文字を画面に表示するアプリを作成（写経＋アレンジ）。
 - 意義：基本的な使い方を把握する。
 - `assets/`を作成して画像をコピーしてくる。`yml`を書き換えて画像ファイルを認識させる。
@@ -23,7 +23,7 @@ draft: false
 - `child: []`と`children: []`で入れ子構造の設定。  
 [リポジトリ：flutter_practice_display](https://github.com/watobii/flutter_practice_display)
 
-## Day3
+## STEP3
 - 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。
 - 意義：async・awaitの処理に触れる。小技を覚える。画面遷移の手法やその書き方を身につける。
 - `appbar:`で画面上端のバー＋テキストを表示。
@@ -43,7 +43,7 @@ draft: false
 - `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。  
 [リポジトリ：flutter_practice_calc](https://github.com/watobii/flutter_practice_calc)
 
-## Day4・5・6・7・8
+## STEP4
 - 本記事の初回作成。
 - プロフィールを表示して、シェアするアプリを作成中（写経＋アレンジ）。
 - 意義：パッケージの導入方法とその適用の勘所を身につける。例外処理、async・awaitの処理に慣れる。
@@ -65,8 +65,8 @@ Cannot resolve symbol 'Properties'
 - 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。  
 [リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)  
 
-## Day9・Day10・Day11・Day12・DAY13
-- リアルタイムに値を変更して表示するアプリを作成中。
+## STEP5
+- リアルタイムに値を変更して表示するアプリを作成中（写経）。
 - 新規作成したいアプリの画面イメージを描いてみる。 
 
 [リポジトリ：flutter_practice_realtime](https://github.com/watobii/flutter_practice_realtime/settings)
