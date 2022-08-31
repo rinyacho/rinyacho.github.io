@@ -21,6 +21,7 @@ draft: false
 - `body: Centor()`（全体配置）、`Column()`（縦配置）、`Row()`（横配置）でレイアウト。
 - `MainAxisAlignment.`で配置パターンを設定。
 - `child: []`と`children: []`で入れ子構造の設定。  
+
 [リポジトリ：flutter_practice_display](https://github.com/watobii/flutter_practice_display)
 
 ## STEP3
@@ -41,6 +42,7 @@ draft: false
 - `lib/`に`.dart`ファイルを追加して、新たな画面を作成。
 - 変数の作成、変数の画面間渡し。
 - `Navigator.push()`と`MaterialPageRoute(builder: (context) =>)`を使用して`main.dart`から画面遷移。  
+
 [リポジトリ：flutter_practice_calc](https://github.com/watobii/flutter_practice_calc)
 
 ## STEP4
@@ -63,11 +65,23 @@ Cannot resolve symbol 'Properties'
 Cannot resolve symbol 'Properties'
 ```
 - 書くコードの量が多くなってきており、手間取った。また入れ子構造への理解が薄い、VScodeもまだ使い慣れているとは言い難いので、時間を要してしまう。  
+
 [リポジトリ：flutter_practice_share](https://github.com/watobii/flutter_practice_share)  
 
 ## STEP5
-- リアルタイムに値を変更して表示するアプリを作成中（写経）。
 - 新規作成したいアプリの画面イメージを描いてみる。 
+
+## STEP6
+- リアルタイムに値を変更して表示するアプリを作成（写経）。
+- 画面を最初に生成した時の変数の値は保持される。ただし、TextField等の入力形式の内容を除く。
+- `Provider`packageを導入して、TextFieldに入力された値を他の場所でリアルタイムに反映させる。
+- `TextChanged`で、入力された文字に変更があった場合に動作させる。
+- 上記に`notifyListeners()`を入れ、で変数が変わったことを他のファイルに知らせる。
+- `ChangeNotifierProvider`で作成したKクラスを`Provider.of<K>(context, listen:false).k`を使用して呼び出す。  
+- `print()`は`+`演算子を間に入れると変数と文字列を同時に表示できる。
+```
+print('kの値：'+K.k);   // 文字列＋変数の形
+```
 
 [リポジトリ：flutter_practice_realtime](https://github.com/watobii/flutter_practice_realtime/settings)
 
