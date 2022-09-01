@@ -59,7 +59,7 @@ draft: false
 4. Github上でリモートリポジトリを作成する。作成したリポジトリのSSH用URL（NOT https）をコピーしておく。
 5. リモートリポジトリとローカルリポジトリを接続する。下記を実行。
     ```none
-    git remote add origin 
+    git remote add origin SSH用URL
     ```
 6. ローカルリポジトリを作成したいディレクトリを移動する。下記を実行しローカルリポジトリを作成する。
     ```none

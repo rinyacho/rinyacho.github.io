@@ -11,6 +11,7 @@ draft: false
 - AndroidStudioのインストール。
 - Gitのインストール。
 - ローカル＆リモートリポジトリの設定。
+- 教材の選定。
 
 ## STEP2
 - 画像と文字を画面に表示するアプリを作成（写経＋アレンジ）。
@@ -77,14 +78,32 @@ Cannot resolve symbol 'Properties'
 - `Provider`packageを導入して、TextFieldに入力された値を他の場所でリアルタイムに反映させる。
 - `TextChanged`で、入力された文字に変更があった場合に動作させる。
 - 上記に`notifyListeners()`を入れ、で変数が変わったことを他のファイルに知らせる。
-- `ChangeNotifierProvider`で作成したKクラスを`Provider.of<K>(context, listen:false).k`を使用して呼び出す。  
+- `ChangeNotifierProvider`で作成したKクラスを`Provider.of<Hoge>(context, listen:false).hoge`を使用して呼び出す。  
 - `print()`は`+`演算子を間に入れると変数と文字列を同時に表示できる。
-```
-print('kの値：'+K.k);   // 文字列＋変数の形
+```dart
+print('hogeの値：'+Hoge.hoge);   // 文字列＋変数の形
 ```
 
 [リポジトリ：flutter_practice_realtime](https://github.com/watobii/flutter_practice_realtime/settings)
 
+## STEP7
+- 押した回数を記録し、リアルタイムで表示するアプリを作成（写経）。
+- アプリを閉じても回数の記録は残る。
+- `provider`packageを導入して、数字が変わったことを明示的に通知する。
+- `MaterialApp()`と`scaffold()`が同じクラスにある場合、`provider`が機能しない。クラスを新規作成。
+- `MaterialApp()`の宣言はアプリ毎に一回だけにし、初期設定の内容を記載する。その他の動作は別のクラスを作成する。
+- 下記で関数を呼び出し、`notifyListeners`を実行する。カウントする（`+= 1`）。
+```dart
+Provider.of<クラス名>(context, listen: false).関数名;
+```
+- `notifyListeners`で数字が変わったことを通知する。
+- 下記でカウントした値を指定する。`text()`と組み合わせてそれを表示。
+```dart
+Provider.of<クラス名>(context).変数名
+```
+- `Hive`packageを導入して、端末内にデータを保存する。
+
+[リポジトリ：flutter_practice_pressed](https://github.com/watobii/flutter_practice_pressed)
+
 ## 継続中の問題
 - バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。
-- 時間の確保が困難😥　少しずつでも、出来るだけ毎日進めていきたい。
