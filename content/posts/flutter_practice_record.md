@@ -4,6 +4,12 @@ date: 2022-08-19T22:18:17+09:00
 tags: ["Flutter"]
 draft: false
 ---
+## 参考にしている書籍やサイトなど
+- [Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/chapter0)  
+- [Flutter研修【ミクシィ22新卒技術研修】](https://www.youtube.com/watch?v=oQCJZFqDwIo&t=707s)  
+- [スマホで動くアプリを作ろう！ゼロから始めるFlutter実践入門編](https://www.amazon.co.jp/%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%A7%E5%8B%95%E3%81%8F%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%82%8D%E3%81%86%EF%BC%81%E3%82%BC%E3%83%AD%E3%81%8B%E3%82%89%E5%A7%8B%E3%82%81%E3%82%8BFlutter%E5%AE%9F%E8%B7%B5%E5%85%A5%E9%96%80%E7%B7%A8-%E2%91%A0-%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E3%81%AA%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86-%E6%B8%8B%E8%B0%B7-%E3%82%A8%E3%83%9F%E3%83%AA-ebook/dp/B09VKXCFCN/ref=sr_1_3?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=TPW10PMXYQXG&keywords=flutter&qid=1662303959&sprefix=flutter%2Caps%2C199&sr=8-3) ※1~3含めて  
+- [Flutter 日本語ドキュメント](https://flutter.ctrnost.com/)
+
 ## STEP1
 - 開発機の選定。
 - マウス・キーボードの設定。
