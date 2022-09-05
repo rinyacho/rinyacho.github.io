@@ -1,5 +1,5 @@
 ---
-title: "Mermaiojs_on_hugo"
+title: "Mermaidjs_on_hugo"
 date: 2022-09-02T22:32:22+09:00
 draft: true
 ---
@@ -17,16 +17,8 @@ sequenceDiagram
         カバン->>カバン: ううっ
     end
 ```
+```mermaid
 graph TD;
     A-->B;
     A-->C;
-    B-->D;
-    C-->D;
-
-  flowchart LR
-    家==>職場
-    職場-->Q{お腹空いた?}
-    Q==>|Yes|ダイエー
-    Q-->|No|ジュンク堂
-    ジュンク堂-->ダイエー
-    ダイエー-->家
+```
