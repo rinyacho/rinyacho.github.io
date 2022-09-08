@@ -54,11 +54,14 @@ api・PAK・
 ![lang](../../images/lang.png)  
 SDK=重機・重機＋構造体  
 ![sdk](../../images/sdk.png)  
-FW=構造体、木造なら伝統軸組工法、在来軸組工法、ツーバイフォー工法、集成材工法
+FW=構造体、木造なら伝統軸組工法、在来軸組工法、ツーバイフォー工法、集成材工法  
+例：Bootstrap、UIkit、Laravel、Django、Ruby on Rails、vue.js、AngularJS、NEXT.js、
 ![frame](../../images/frame.png)  
-LIB=工場製作の建具など、現場で作らない外部から持ってくる部品、
+LIB=工場製作の建具など、現場で作らない外部から持ってくる部品、窓、ドア、トイレ、お風呂、
+jQuery、
 ![lib](../../images/lib.png)  
 MOD=現場製作の建具など、造作とも呼ばれる、現場で作る部品  
+ドア、作り付け棚、壁、屋根、
 ![mod](../../images/mod.png)  
 class=板面、ハンドル、丁番、ネジ、使用する素材、などを集約したもの
 ![class](../../images/class.png)  
