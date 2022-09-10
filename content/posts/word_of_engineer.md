@@ -50,26 +50,38 @@ api・PAK・
 
 建築的に考えるソフトウェア開発用語
 
-プログラミング言語=使用する主要な素材（RC、SRC、木、S）  
+## プログラミング言語
+使用する主要な素材の選定（RC、SRC、木、S）  
+例：JavaScript、Java、C、Kotlin、Swift、PHP、Ruby、  
 ![lang](../../images/lang.png)  
-SDK=重機・重機＋構造体  
+## SDK
+重機・重機＋構造体  
+例：Flutter、Android Studio、  
 ![sdk](../../images/sdk.png)  
-FW=構造体、木造なら伝統軸組工法、在来軸組工法、ツーバイフォー工法、集成材工法  
+## FW（フレームワーク）
+構造体、木造なら伝統軸組工法、在来軸組工法、ツーバイフォー工法、集成材工法  
 例：Bootstrap、UIkit、Laravel、Django、Ruby on Rails、vue.js、AngularJS、NEXT.js、
 ![frame](../../images/frame.png)  
-LIB=工場製作の建具など、現場で作らない外部から持ってくる部品、窓、ドア、トイレ、お風呂、
-jQuery、
+## LIB（ライブラリ）
+工場製作の建具など、現場で作らない外部から持ってくる部品、窓、ドア、トイレ、お風呂、  
+例：jQuery、
 ![lib](../../images/lib.png)  
-MOD=現場製作の建具など、造作とも呼ばれる、現場で作る部品  
-ドア、作り付け棚、壁、屋根、
+## MOD（モッド・モディフィケーション）
+現場製作の建具など、造作とも呼ばれる、現場で作る部品、ドア、作り付け棚、壁、屋根、  
+例：
 ![mod](../../images/mod.png)  
-class=板面、ハンドル、丁番、ネジ、使用する素材、などを集約したもの
+## class
+板面、ハンドル、丁番、ネジ、使用する素材、などを集約したもの
 ![class](../../images/class.png)  
-func=classを定義する為に便利なcode郡、  
-code=枠やガラスの位置や素材、座標などの情報
+## func
+classを定義する為に便利なcode郡、  
+## code
+枠やガラスの位置や素材そのもの、座標などの情報
 ![code](../../images/code.png)  
-API=渡り廊下・道路、他の建物と連携するためのもの、  
+## API
+渡り廊下・道路、他の建物と連携するためのもの、  
 ![api](../../images/api.png)  
-PAK=パッケージ化されたもの。単位はそれぞれ異なる。太陽光発電パッケージなど。
+## PAK（パッケージ）
+パッケージ化されたもの。単位はそれぞれ異なる。太陽光発電パッケージなど。
 ![pak](../../images/pak.png)  
 
