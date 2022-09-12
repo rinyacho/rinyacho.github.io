@@ -77,6 +77,10 @@ api・PAK・
 （中略）もっとも難しいアプリケーション設計上の決断が，フレームワーク開発者によってすでになされており，プログラマは単にそのひな型に肉付けをしていくだけになります。  
 一方のライブラリは，（中略）どんなアプリケーションでも使われる機能が中心です。
 
+C:\Users\xuqnk\watobi\watobii.github.io\MyHomepage\content\images\practice.drawio.svg
+
+![lib2](../../images/practice.drawio.svg)  
+
 ## class
 板面、ハンドル、丁番、ネジ、使用する素材、などを集約したもの、  
 ガラスclassの場合は珪砂、ソーダ灰、石灰等の要素が入る？
