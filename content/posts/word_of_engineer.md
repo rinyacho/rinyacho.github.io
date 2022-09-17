@@ -1,7 +1,7 @@
 ---
 title: "FW、API、SDK、MOD、PKG、LIB、COMPO"
 date: 2022-09-06T00:51:21+09:00
-draft: false
+draft: true
 ---
 コードの量から考えてみる
 
