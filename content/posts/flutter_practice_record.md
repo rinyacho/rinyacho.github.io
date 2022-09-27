@@ -1,5 +1,5 @@
 ---
-title: "Flutter Challenge!💥 練習編（更新中）"
+title: "Flutter Challenge!💥 練習編"
 date: 2022-08-19T22:18:17+09:00
 tags: ["Flutter"]
 draft: false
@@ -108,8 +108,13 @@ Provider.of<クラス名>(context, listen: false).関数名;
 Provider.of<クラス名>(context).変数名
 ```
 - `Hive`packageを導入して、端末内にデータを保存する。
+- 下記をターミナルで実行し、`g.dart`を生成する（Type Adapterの登録）。
+```
+flutter packages run build_ runner build
+```
+- この辺りの挙動や記述が分かりにくいので、折を見て調べていきたい。
 
 [リポジトリ：flutter_practice_pressed](https://github.com/watobii/flutter_practice_pressed)
 
-## 継続中の問題
-- バーチャルiPhone機との接続ができず、アプリが立ち上げられない。Andoroid機は問題無し。
+## 以上となります。
+練習自体はこれで完了とします。
