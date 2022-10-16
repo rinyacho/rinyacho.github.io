@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://watobii.github.io/posts/mythical_man_month_reading/</loc>
-    <lastmod>2022-09-19T21:35:16+09:00</lastmod>
-  </url><url>
     <loc>https://watobii.github.io/posts/</loc>
-    <lastmod>2022-09-19T21:35:16+09:00</lastmod>
+    <lastmod>2022-10-11T04:17:49+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/</loc>
+    <lastmod>2022-10-11T04:17:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/posts/keyball44_assenbly/</loc>
+    <lastmod>2022-10-11T04:17:49+09:00</lastmod>
+  </url><url>
+    <loc>https://watobii.github.io/posts/mythical_man_month_reading/</loc>
     <lastmod>2022-09-19T21:35:16+09:00</lastmod>
   </url><url>
     <loc>https://watobii.github.io/tags/flutter/</loc>
