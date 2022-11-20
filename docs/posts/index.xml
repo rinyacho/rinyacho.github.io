@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on watobi&#39;s page</title>
-    <link>https://watobii.github.io/posts/</link>
-    <description>Recent content in Posts on watobi&#39;s page</description>
+    <title>Posts on rinyacho&#39;s page</title>
+    <link>https://rinyacho.github.io/posts/</link>
+    <description>Recent content in Posts on rinyacho&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 11 Oct 2022 04:17:49 +0900</lastBuildDate><atom:link href="https://watobii.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 04:17:49 +0900</lastBuildDate><atom:link href="https://rinyacho.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初の自作キーボード「Keyball44」を組み立てた感想など</title>
-      <link>https://watobii.github.io/posts/keyball44_assenbly/</link>
+      <link>https://rinyacho.github.io/posts/keyball44_assenbly/</link>
       <pubDate>Tue, 11 Oct 2022 04:17:49 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/keyball44_assenbly/</guid>
+      <guid>https://rinyacho.github.io/posts/keyball44_assenbly/</guid>
       <description>※CSSの設定を誤り、ここ数日まともに見れない状態が続いておりました。アクセスしてくださった方は申し訳ありませんでした。hugo serverを実行しlocal hostで確認した際は問題無かったのですが。。。原因も含めて、今後もCSSの設定周りを見直していきたいです。
 keyball44について🎱 自作キーボード界では有名なキーボードだと思います。トラックボールを常用している自分としては前々から欲しいと思っていたのですが、しばらく在庫切れが続いており、手に入れることができませんでした。先日、その在庫が復活した旨をTwitterで知り、購入した次第です。
 Keyballシリーズの在庫を追加しました！😆
@@ -25,7 +25,7 @@ Keyballシリーズの在庫を追加しました！😆
 全くの余談ですが、想像することの大切さは『Laundry』から学べます。とても良い邦画ですよ。
 キット以外に購入したもの chocキーキャップとchocスイッチ Cherry MX 互換キーキャップ 34mmトラックボール TRRSケーブル（TRSでも可） ProMicro（単体） × 2 キットの内容はこんな感じです。詳しくは製品ページに書いてあります。
 keyball44、届いたので早速組み立て頑張ります💪 pic.twitter.com/AKHdmMzgpM
-&amp;mdash; watobi (@watobi_pub) October 9, 2022 準備したもの 遊舎工房さんの工具セットを参考に準備しました。はんだごてから、ピンセットまで、基本的に全部。
+&amp;mdash; rinyacho (@rinyacho_jp) October 9, 2022 準備したもの 遊舎工房さんの工具セットを参考に準備しました。はんだごてから、ピンセットまで、基本的に全部。
 keyball44組み立てに、ほぼほぼ必須ではと私が感じたアイテムとしては、
 はんだごて 平らな面があるコテ先 コテ台 はんだ ピンセット（先の細いもの） プラスドライバー マスキングテープ キーキャップ引き抜き工具 ※無くてもなんとかなると思ってたけど実際は無いと厳しいと思われる。製品自体は何でも良いと思います。私はHHKBのキーキャップに付属していたものを使用しました。 以上といったところでしょうか。はんだ付けの熟練度によっても変わってくると思います。逆に、準備が足りなかったのは、フラックスと、はんだこて作業マットです。特に作業マットはダンボールで代用したので、少し触れただけで簡単にズレてしまい、四苦八苦しました。
 私がハマったポイント 前提 基本的に、ビルドガイドが下記に詳しく書いてあるので、それに従うことが必須です。私は結構読み込んで、割りと慎重に進めていったと思います。 https://github.com/Yowkees/keyball/blob/main/keyball44/doc/rev1/buildguide_jp.md
@@ -34,10 +34,10 @@ keyball44組み立てに、ほぼほぼ必須ではと私が感じたアイテ�
     
     <item>
       <title>『人月の神話』読書会に参加してみた。</title>
-      <link>https://watobii.github.io/posts/mythical_man_month_reading/</link>
+      <link>https://rinyacho.github.io/posts/mythical_man_month_reading/</link>
       <pubDate>Mon, 19 Sep 2022 21:35:16 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/mythical_man_month_reading/</guid>
+      <guid>https://rinyacho.github.io/posts/mythical_man_month_reading/</guid>
       <description>ITエンジニア的な情報に浸っていると、「読書会」なるワードを見かける機会があります。他にも「もくもく会」とか、「勉強会」とか、ありますよね。どんな感じなんだろうなぁと興味を持ちつつも、参加の機会はありませんでした。自分に実務経験が無いのもあり、専門的な内容の読書会への参加がはばかられた部分もあります。
 ある記事をはてなブックマーク経由で閲覧した時、『人月の神話』読書会、なるものを見つけました。そこから、CONNPASS経由で参加させていただきました。『人月の神話』の存在は知っており、興味があったので、丁度良かったです。人月の神話が技術書の中の分類としては、エッセイ的なもの（特定の言語やそのフレームワークを取り上げた本とは異なる）でしたので、参加もしやすかったです。
 ※本イベントを見つけた段階で、CONNPASSで参加者を募集している期限は過ぎていましたが、イベントページの問い合わせ欄から参加したい旨を連絡すると、承諾していただくことができました。感謝感謝。
@@ -51,10 +51,10 @@ keyball44組み立てに、ほぼほぼ必須ではと私が感じたアイテ�
     
     <item>
       <title>Flutter Challenge!💥 練習編</title>
-      <link>https://watobii.github.io/posts/flutter_practice_record/</link>
+      <link>https://rinyacho.github.io/posts/flutter_practice_record/</link>
       <pubDate>Fri, 19 Aug 2022 22:18:17 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/flutter_practice_record/</guid>
+      <guid>https://rinyacho.github.io/posts/flutter_practice_record/</guid>
       <description>参考にしている書籍やサイトなど Flutter実践入門 スマホで動くアプリを作ろう！ゼロから始めるFlutter実践入門編 ※1~3含めて Flutter 日本語ドキュメント STEP1 開発機の選定。 マウス・キーボードの設定。 Homebrewのインストール。 AndroidStudioのインストール。 Gitのインストール。 ローカル＆リモートリポジトリの設定。 教材の選定。 STEP2 画像と文字を画面に表示するアプリを作成（写経＋アレンジ）。 意義：基本的な使い方を把握する。 assets/を作成して画像をコピーしてくる。ymlを書き換えて画像ファイルを認識させる。 Image()で画像を表示。 Text()で文字を表示。 body: Centor()（全体配置）、Column()（縦配置）、Row()（横配置）でレイアウト。 MainAxisAlignment.で配置パターンを設定。 child: []とchildren: []で入れ子構造の設定。 リポジトリ：flutter_practice_display
 STEP3 名前と日付を入力することで、生まれてから現在までの日数を計算するアプリを作成（写経＋アレンジ）。 意義：async・awaitの処理に触れる。小技を覚える。画面遷移の手法やその書き方を身につける。 appbar:で画面上端のバー＋テキストを表示。 StringとDateTimeの型で変数生成。 InputDecoration()でテキスト入力欄のデザイン設定。 print()でconsoleに値を出力。デバッグでも有効。 Icon:でアイコンを表示。 Padding()で4方向のレイアウト調整。 SingleChildScrollView()画面内に治まらない時のスクロールに対応。 if文でnull回避。hoge!にてnullで無いことの証明。 TextField()やShowDatePicker()を使用して入力パターンを設定。 onPressed:を使用してタップ動作の検知。 aysncとawaitを使用して動作に時間差があるデータの格納に対応（カレンダーを表示する→日付を選択する）。 新たなclassを作成。 lib/に.dartファイルを追加して、新たな画面を作成。 変数の作成、変数の画面間渡し。 Navigator.push()とMaterialPageRoute(builder: (context) =&amp;gt;)を使用してmain.dartから画面遷移。 リポジトリ：flutter_practice_calc
 STEP4 本記事の初回作成。 プロフィールを表示して、シェアするアプリを作成中（写経＋アレンジ）。 意義：パッケージの導入方法とその適用の勘所を身につける。例外処理、async・awaitの処理に慣れる。 url_launcherパッケージのインストールと適用。 launchURLでメールアプリの自動起動と適用するテキストを設定。 Future&amp;lt;void&amp;gt;、async、awaitで時間がかかる処理の対応。 if + throwで例外処理。 fontSize:とfontWeight:で、文字の大きさと強さを変更できる。 share_pluspackageを導入して、シェア動作を入れる。 screenshotpackageを導入して、スクリーンショットを取る動作を入れる。 path_providerpackageを導入して、スクリーンショットのデータとのパスを繋ぐ。 backgroundColor:で背景色を指定する。 下記のErrorが発生。SDKの紐づけが出来ていなかった（NoSDK）のが原因っぽい。File→Project Structureで、SDKを設定したところ、解消された。
@@ -63,10 +63,10 @@ STEP4 本記事の初回作成。 プロフィールを表示して、シェア�
     
     <item>
       <title>Mac(M1/Apple silicon)でGit&amp;Githubを使用したローカル&amp;リモートリポジトリを作成する方法覚え書き。</title>
-      <link>https://watobii.github.io/posts/build_git_github_enviroment/</link>
+      <link>https://rinyacho.github.io/posts/build_git_github_enviroment/</link>
       <pubDate>Tue, 16 Aug 2022 20:09:40 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/build_git_github_enviroment/</guid>
+      <guid>https://rinyacho.github.io/posts/build_git_github_enviroment/</guid>
       <description>読み飛ばしてOKのまえがき 現在、私はFlutterでアプリ開発にチャレンジしています📱
 その開発内容もgit＆githubで管理していきたいなと思いました。アプリ開発をしているのは、iPhoneの実験もしたいことから、Mac機を使用しています。環境構築済みのWindows機ではないので、新たに環境構築が必要となります。 一度、Git＆Githubの本で一通り実施したので、それ程詰まらずに進めることができるだろうと思っていたのですが、思ったより時間を要してしまいました。 今後も新たなPCでGit＆Githubの環境構築をすることがあると思いますので、その方法をまとめておきたいと思います。
 注意事項？ 全てCLI前提（Mac標準搭載のターミナル）で書いていきます。M1💻と記載しましたが、Apple silicon系であれば内容は同じと思われます。また、Windowsでも、パッケージマネージャー入れたり（必須ではない）、コマンド実行したり、流れや内容は概ね一緒かと思います。
@@ -79,10 +79,10 @@ STEP4 本記事の初回作成。 プロフィールを表示して、シェア�
     
     <item>
       <title>Flutter Challenge!💥</title>
-      <link>https://watobii.github.io/posts/flutter_challenge/</link>
+      <link>https://rinyacho.github.io/posts/flutter_challenge/</link>
       <pubDate>Sun, 14 Aug 2022 00:33:59 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/flutter_challenge/</guid>
+      <guid>https://rinyacho.github.io/posts/flutter_challenge/</guid>
       <description>Dart+Flutterを使用したAndroid、iPhoneのアプリ開発にチャレンジしてみようと思います。
 Flutterをおさらい FlutterはWindows、MacOS、Linux、iPhone、Android、向けにアプリケーションを開発できるSDK（Software Development Kit・ソフトウェア開発キット）です。特に近年スマートフォンアプリの開発で注目されています。通常、スマートフォンのネイティブアプリの開発では、AndroidではKotlin+Android Studioが、iPhoneではSwift+Xcodeをが使用されると思います。しかし、Dart＋FlutterではどちらのスマートフォンOSにも対応した開発をすることができます。DartはFlutterで使用される言語ですね。
 クロスプラットフォーム開発への憧れ Java+Android StudioでAndroidアプリの教本に載っているアプリを写経＋アレンジしたことがありますが、それだけでもやることが多く、それなりに大変だった記憶があります。しかも、当たり前ですが、Androidでしか動作しません。それが、共通のソースコードでAndroid、iPhoneのどちらにも対応できるなんて、何てお得💴なんだと思いました。お得なものは、みんな使用したくなりますよね！
@@ -97,10 +97,10 @@ Flutterをおさらい FlutterはWindows、MacOS、Linux、iPhone、Android、�
     
     <item>
       <title>GitHubPagesの魅力を挙げていく（なぜブログサービスとして選択したか）</title>
-      <link>https://watobii.github.io/posts/githubpages_charmpoint/</link>
+      <link>https://rinyacho.github.io/posts/githubpages_charmpoint/</link>
       <pubDate>Wed, 10 Aug 2022 23:44:15 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/githubpages_charmpoint/</guid>
+      <guid>https://rinyacho.github.io/posts/githubpages_charmpoint/</guid>
       <description>はじめに 本サイトはGitHubPages📄にて運用しております。 一般的なブログサービスは便利なものもたくさんあります。アカウントを登録すればすぐに開始できるし、機能も豊富で、至れり尽くせりです。 では、構築に手間がかかる（少なくともブログサービスよりは）GitHubPagesをなぜ選択したのかを、メリットを挙げながら振り返っていきたいと思います。
 広告を載せる必要がない ブログサービスによっては、広告の表示が必須、もしくは広告の非表示が有料なところがあります。GitHubPagesに載る広告は自分でコントロールすることが出来るのが良いですね。
 無料🆓 上記の広告の件が絡んできますが、ブログサービスによっては💰有料のプランが用意されている場合があります。逆に言うと、無料プランでは様々な規制が設定されています。アップロードできるデータサイズや、独自ドメインの利用の規制等が主だったところですね。GitHubにも有料プランが存在しますが、特定の機能に限られているので、無料プランでも十分な運用が可能です。
@@ -117,10 +117,10 @@ Zenn
     
     <item>
       <title>Hugo &#43; GitHubPagesを使用してブログ&amp;プロフィールサイトを表示するまでのError一覧など</title>
-      <link>https://watobii.github.io/posts/githubpages_and_hugo/</link>
+      <link>https://rinyacho.github.io/posts/githubpages_and_hugo/</link>
       <pubDate>Tue, 09 Aug 2022 17:04:49 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/githubpages_and_hugo/</guid>
+      <guid>https://rinyacho.github.io/posts/githubpages_and_hugo/</guid>
       <description>なぜGitHubPagesを選んだのか 無料であり、広告がないのが魅力的でした。はてなブログやZennも検討しましたが、GitHubを使用した経験が乏しいので、練習も兼ねることが出来るのではと考えました。またGitHubを使い慣れておくとは、スキル💪として有用だとも考えていました。
 ※記事をMarkdownで書くことは必須事項でしたが、どのサイトもその要件は満たしていました。
 静的サイトジェネレーターになぜHugoを選んだのか GitHubPagesを使用していく上で候補に挙がったのが、jekyllとHugoでした。jekyllはビルドに時間が遅い等の問題が見受けられました。調べるとjekyllからHugoに切り替えたというサイトもちらほらあり、かつ開発の継続性も見受けられましたので、Hugo（＋PaperMod）を選択しました。
@@ -131,10 +131,10 @@ hugo-PaperMod installation sample config.yml hugo serverで生成したサイト
     
     <item>
       <title>IT初心者が『いちばんやさしいGit&amp;GitHubの教本 第2版』を読んで。</title>
-      <link>https://watobii.github.io/posts/ichiyasagit_book_review/</link>
+      <link>https://rinyacho.github.io/posts/ichiyasagit_book_review/</link>
       <pubDate>Mon, 08 Aug 2022 21:30:37 +0900</pubDate>
       
-      <guid>https://watobii.github.io/posts/ichiyasagit_book_review/</guid>
+      <guid>https://rinyacho.github.io/posts/ichiyasagit_book_review/</guid>
       <description>TL;DR 総じて良い書籍📘だと感じました。書籍内の演習は全て実践させていただきました。
 自分の状況。 GitはInstallしていたが、使用実績はなかった。 GitHubのaccountは持っていたが使用できていなかった。 Visual Studio Codeはinstallしてあり、使用実績もあった。 拡張子やDirectory構造📁をある程度理解していた。 CLIには慣れていた。 htmlを編集したことがあった。 以上のような状況なので、PCの扱いを含めて何も分かっていないわけではありませんでした。ただ、上記のような経験が無くとも実践していけるように作ってあると思います。尚、IT関連の実務経験はありません。 良かったところ。 Git＆GitHubを学ぶ上で、良い書籍だと感じました。Teamを想定した開発の演習があるのですが、その内容も分かりやすく興味を持って取り組み続けることができました。 command lineで実施するところと、その結果がしっかりと表示してあり、勘違いをしにくい（自分がCommand Lineを打ち込む場面なのか実行結果を待つ場面なのかといった）のも進めやすかったです。
 事前説明の項目と演習の項目がしっかりと分けられており、分かりやすかったです。反面、少し上長にも感じました（事前説明の段階で先んじて実行してしまったり等）。「いちばんやさしい」をタイトルにしている以上は仕方ないのかなぁとも思います。 ところどころにある「ワンポイント」で納得感を得ました。編纂事情の説明や、こんなこともできるよといった演習では扱いきれない、視座に富んだ内容が記載されていました。master/slaveがmainに変わりつつある話しとか、面白かったです。下記画像はP140。 公開鍵による認証手続き（今回はSSH）についても、丁寧に解説してあったと思います。こういった書籍を用いずに実践する場合は、躓きポイントになりそうですね。 自分が詰まったところ。 Pull Request先を誤ってfork元にしてしまいました（yasagit-2/ichiyasaGitSample Repository）。同じことをしてしまっている人も多くいるようで、私が訪問した時点で同様のRepositoryには41件（forkは300件超）のPull Requestが行われていました。書籍の読者の皆様、同じ間違いをするようで少し安心しましたｗ
