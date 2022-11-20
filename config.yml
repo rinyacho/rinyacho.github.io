@@ -1,7 +1,7 @@
-baseURL: "https://watobii.github.io/"
+baseURL: "https://rinyacho.github.io/"
 canonifyurls: false
 publishDir: "docs"
-title: watobi's page
+title: rinyacho's page
 paginate: 10
 theme: PaperMod
 languageCode: "ja-jp"
@@ -19,10 +19,10 @@ minify:
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: watobi
-  description: "Blog of watobi."
+  title: rinyacho
+  description: "Blog of rinyacho."
   keywords: [Blog, Portfolio, PaperMod]
-  author: watobi
+  author: rinyacho
   # author: ["Me", "You"] # multiple authors
   images:
   DateFormat: "January 2, 2006"
@@ -59,9 +59,9 @@ params:
   # profile-mode
   #profileMode:
   #  enabled: true # needs to be explicitly set
-  #  title: "Welcome to watobi pages!"
+  #  title: "Welcome to rinyacho pages!"
   #  subtitle: "技術的なことを中心にブログを書いていきます。"
-  #  imageUrl: "watobi.jpg"
+  #  imageUrl: "rinyacho.jpg"
   #  imageWidth: 200
   #  imageHeight: 200
   #  imageTitle: my image
@@ -73,16 +73,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-     Title: "This is watobi's page 😁"
+     Title: "This is rinyacho's page 😁"
      Content: 技術的なことを中心に書いていきます！
 
   socialIcons:
     - name: email
       url: "https://docs.google.com/forms/d/e/1FAIpQLSdsFw4jCJzzFd8mXAabFBG0aXVgvqWjX0sDfHOTXnUcXpmWlg/viewform?usp=sf_link"
     - name: twitter
-      url: "https://twitter.com/watobi_pub"
+      url: "https://twitter.com/rinyacho_pub"
     - name: github
-      url: "https://github.com/watobii"
+      url: "https://github.com/rinyacho"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -90,7 +90,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   #editPost:
-  #  URL: "https://watobii.github.io/content"
+  #  URL: "https://rinyacho.github.io/content"
   #  Text: "Suggest Changes" # edit text
   #  appendFilePath: true # to append file path to Edit link
 
